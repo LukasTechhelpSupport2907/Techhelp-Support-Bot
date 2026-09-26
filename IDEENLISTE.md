@@ -42,6 +42,9 @@ Alternativ kannst du deine Idee auch einfach als [Issue](https://github.com/Tech
 * [ ] Verbesserung am Musik Bot
 * [ ]
 * [ ]
+* [ ]
+* [ ]
+* [ ]
 
 ### 🐛 Bekannte Kleinigkeiten
 
